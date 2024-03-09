@@ -160,8 +160,7 @@ A **pull request** is a method of submitting contributions to a project. It lets
 
 **Explain in your own words what a pull request is and why it's useful when collaborating on a codebase.**
 
-Write your answer here!
-
+It is asking the repo owner to add my changes on the code to the main branch. It is important because it allows the team leader or the project manager to review the changes of others before adding them to the main branch.
 **How did it feel to receive feedback on your own code? How can you use this feedback to improve your coding skills?**
 
-Write your answer here!
+It will be too helpful and less time consuming.
